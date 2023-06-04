@@ -1,7 +1,7 @@
 # game-bot
 Applicable to all versions, provided that server-release..jar is replaced.
 # USE
-##Edit address
+## Edit address
 He is in the server loading event under Main.
 ## compile
 ```
