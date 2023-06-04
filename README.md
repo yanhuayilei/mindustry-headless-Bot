@@ -1,5 +1,16 @@
 # game-bot
-游戏Mindustry的网络服务器的机器人
+Applicable to all versions, provided that server-release..jar is replaced.
+# USE
+##Edit address
+He is in the server loading event under Main.
+## compile
+```
+javac -cp server-release..jar src/*.java
+```
+## run
+```
+java -cp server-release..jar src/*
+```
 
 
-好像没啥介绍的
+
